@@ -1,0 +1,16 @@
+{
+  "favouriteCities": [
+    {
+      "id": "b34f57dc-1c72-4fc3-8b47-c621be91bc0d",
+      "city": ""
+    },
+    {
+      "id": "b19d1492-270b-422a-9f18-e7df01e5ee0f",
+      "city": "New York"
+    },
+    {
+      "id": "bf9ce5f0-b086-44a3-9da3-d35c16f4ae9b",
+      "city": "Hyderabad"
+    }
+  ]
+}
